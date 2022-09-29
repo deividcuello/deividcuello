@@ -3,6 +3,8 @@
 <!--
 **deividcuello/deividcuello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am a self-taught web developer and I use this GitHub site to upload my projects and share them with others.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

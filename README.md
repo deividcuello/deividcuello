@@ -1,18 +1,24 @@
-# Hi there 👋 I'm Deivid Cuello
-I am a self-taught web developer and I use this GitHub site to upload my projects and share them with others.
+# Hello, I'm Deivid Alejandro Cuello Cuevas! 🌐
+
+Welcome to my GitHub profile. I'm a Network and Telecommunication Engineering student with a keen focus on network configuration, switching, and routing. My goal is to design and optimize efficient, scalable, and secure network systems.
+
+## 🚀 About Me
+
+- 🔍 **Focus**: Specializing in network configuration, switching, and routing.
+- 📚 **Learning**: Currently diving into CCNA
+- 💼 **Looking for**: Internship opportunities and collaborative projects to apply my skills in real-world environments.
+
+## 🛠️ Skills
+
+- **Networking Protocols**: TCP/IP, OSPF, EIGRP, BGP, VLAN
+- **Switching Technologies**: STP, RSTP, VTP, Port Security
+- **Routing Protocols**: RIP, OSPF, EIGRP, BGP
+- **Configuration Tools**: Cisco Packet Tracer, PuTTY, Wireshark
+- **Programming**: Python, JavaScript
+- **Databases**: SQL
+- **Operating Systems**: Linux, Windows
 
 
-<!--
-**deividcuello/deividcuello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you for visiting my GitHub profile! 🌟
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Deivid Alejandro Cuello Cuevas

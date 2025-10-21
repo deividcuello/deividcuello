@@ -1,24 +1,12 @@
-# Hello, I'm Deivid Alejandro Cuello Cuevas! 🌐
+# Hello, I'm Deivid Alejandro Cuello Cuevas! 👋🌐
 
-Welcome to my GitHub profile. I'm a Network and Telecommunication Engineering student with a keen focus on network configuration, switching, and routing. My goal is to design and optimize efficient, scalable, and secure network systems.
+Welcome to my GitHub profile. I'm an engineer in Networks and Telecommunications with a growing interest in web development and software technologies. I'm passionate about how technology can be used to solve real-world problems and improve user experiences.
 
 ## 🚀 About Me
 
-- 🔍 **Focus**: Specializing in network configuration, switching, and routing.
-- 📚 **Learning**: Currently diving into CCNA
-- 💼 **Looking for**: Internship opportunities and collaborative projects to apply my skills in real-world environments.
+- 🎓 Background in Networks and Telecommunications Engineering.
+- 💻 Currently focusing on expanding my skills in web development.
+- 📚 Always learning and exploring new tools and technologies.
+- 🤝 Open to collaboration, internships, and projects that allow me to grow professionally.
 
-## 🛠️ Skills
-
-- **Networking Protocols**: TCP/IP, OSPF, EIGRP, BGP, VLAN
-- **Switching Technologies**: STP, RSTP, VTP, Port Security
-- **Routing Protocols**: RIP, OSPF, EIGRP, BGP
-- **Configuration Tools**: Cisco Packet Tracer, PuTTY, Wireshark
-- **Programming**: Python, JavaScript
-- **Databases**: SQL
-- **Operating Systems**: Linux, Windows
-
-
-Thank you for visiting my GitHub profile! 🌟
-
-Deivid Alejandro Cuello Cuevas
+Thanks for visiting my profile — feel free to check out my projects or connect!

@@ -1,6 +1,7 @@
 # Hello, I'm Deivid Alejandro Cuello Cuevas! 👋🌐
 
 This is my thesis project: https://iajes-testing.netlify.app/
+
 This is my LinkedIn: https://do.linkedin.com/in/deivid-cuello
 
 Welcome to my GitHub profile. I'm an engineer in Networks and Telecommunications with a growing interest in web development and software technologies. I'm passionate about how technology can be used to solve real-world problems and improve user experiences.
